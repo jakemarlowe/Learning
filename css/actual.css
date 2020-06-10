@@ -1,0 +1,86 @@
+body{
+	margin: 0;
+	font-family: papyrus;
+	font-size: 20px;
+	line-height: 25px;
+	
+
+}
+h1, h2{
+	font-family: Bad Script, cursive, papyrus
+}
+
+header{
+	background-color: lightgreen;
+	text-align: center;
+	padding-top: 500px;
+	padding-bottom: 500px;
+}
+
+header h1{
+	color: white;
+	font-size: 70px;
+	
+}
+
+header img{
+	border-radius: 500px;
+	width: 1000px;
+	height: 1000px;
+	border: 10px solid darkblue;
+}
+
+
+main{
+	max-width: 800px;
+	margin: 0 auto;
+	padding: 0 20px;
+
+}
+
+main img{
+	max-width: 100%;
+}
+
+h2{
+	font-size: 35px;
+	color: yellow;
+	margin: 40px 0 10px
+}
+
+a{
+	color: yellow;
+
+}
+a:hover{ 
+	color: brown;
+ }
+
+ footer{
+ 	color: lightgreen;
+ 	text-align: center;
+ 	padding: 50px
+ }
+
+ footer p{
+ 	margin: 0;
+ }
+
+ footer a{
+ 	color: lightgreen;
+ }
+ footer a:hover{
+ 	background-color: transparent;
+ 	color: transparent;
+
+ }
+
+ p.caption{
+ 	color: violet;
+ 	font-style: italic;
+ 	margin-top: 0
+ }
+
+ p{
+ 	margin: 0;
+ }
